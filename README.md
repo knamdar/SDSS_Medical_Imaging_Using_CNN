@@ -19,8 +19,9 @@ Welcome to the AI for Medical Imaging workshop! This repository contains the cod
 
 ## Contents
 
-- **`Starter_code.ipynb`**: Initial code provided to participants to follow along with the workshop exercises.
-- **`Vibe_Coding.ipynb`**: Supplemental or completed notebook demonstrating the concepts discussed during the session.
+- **`1_Starter_code.ipynb`**: Initial code provided to participants to follow along with the workshop exercises.
+- **`2_Vibe_Coding.ipynb`**: Supplemental or completed notebook demonstrating the concepts discussed during the session.
+- **`3_Revised_BPoint.ipynb`**: A revised version correcting an algorithmic mistake in the pure vibe coding approach.
 - **`generate_nb.py`**: A utility script related to generating or managing notebook files for the workshop.
 
 ## Getting Started
