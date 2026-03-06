@@ -17,6 +17,16 @@
 
 Welcome to the AI for Medical Imaging workshop! This repository contains the code, data pointers, and instructional notebooks used during the session. The workshop focuses on applying deep learning techniques—specifically Convolutional Neural Networks (CNNs)—to real-world medical imaging tasks.
 
+### Workshop Recording
+
+You can watch the recording from the workshop here:
+
+[![Workshop Recording](https://img.youtube.com/vi/IvOm8x7T3r4/0.jpg)](https://youtu.be/IvOm8x7T3r4)
+
+### Presentation Slides
+
+The presentation slides are provided in the `Presentation` directory.
+
 ## Contents
 
 - **`1_Starter_code.ipynb`**: Initial code provided to participants to follow along with the workshop exercises.
